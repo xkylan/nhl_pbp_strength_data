@@ -1,0 +1,289 @@
+,season,team,strength,TOI,goals,goals_against
+0,2017,San Jose Sharks,"(5, 5)",273956,197,195
+1,2017,San Jose Sharks,"(5, 4)",28111,58,3
+2,2017,San Jose Sharks,"(4, 5)",25045,7,39
+3,2017,San Jose Sharks,"(4, 4)",4919,3,5
+4,2017,San Jose Sharks,"(3, 3)",3378,5,7
+5,2017,San Jose Sharks,"(4, 3)",335,0,0
+6,2017,San Jose Sharks,"(3, 4)",252,0,0
+7,2017,San Jose Sharks,"(5, 3)",558,5,0
+8,2017,San Jose Sharks,"(3, 5)",579,0,3
+9,2017,Nashville Predators,"(5, 5)",275137,211,169
+10,2017,Nashville Predators,"(5, 4)",28402,60,5
+11,2017,Nashville Predators,"(4, 5)",32185,11,57
+12,2017,Nashville Predators,"(4, 4)",6181,8,7
+13,2017,Nashville Predators,"(3, 3)",4721,4,4
+14,2017,Nashville Predators,"(4, 3)",592,0,0
+15,2017,Nashville Predators,"(3, 4)",112,0,0
+16,2017,Nashville Predators,"(5, 3)",952,6,0
+17,2017,Nashville Predators,"(3, 5)",456,0,4
+18,2017,Tampa Bay Lightning,"(5, 5)",289468,239,191
+19,2017,Tampa Bay Lightning,"(5, 4)",30884,77,5
+20,2017,Tampa Bay Lightning,"(4, 5)",29142,9,67
+21,2017,Tampa Bay Lightning,"(4, 4)",5522,7,8
+22,2017,Tampa Bay Lightning,"(3, 3)",2444,4,2
+23,2017,Tampa Bay Lightning,"(4, 3)",694,2,0
+24,2017,Tampa Bay Lightning,"(3, 4)",471,0,2
+25,2017,Tampa Bay Lightning,"(5, 3)",763,2,0
+26,2017,Tampa Bay Lightning,"(3, 5)",786,0,7
+27,2017,Vegas Golden Knights,"(5, 5)",301877,234,194
+28,2017,Vegas Golden Knights,"(5, 4)",30409,62,5
+29,2017,Vegas Golden Knights,"(4, 5)",29850,8,53
+30,2017,Vegas Golden Knights,"(4, 4)",4375,6,8
+31,2017,Vegas Golden Knights,"(3, 3)",3562,8,3
+32,2017,Vegas Golden Knights,"(4, 3)",275,0,0
+33,2017,Vegas Golden Knights,"(3, 4)",236,0,1
+34,2017,Vegas Golden Knights,"(5, 3)",579,2,0
+35,2017,Vegas Golden Knights,"(3, 5)",511,0,3
+36,2017,Boston Bruins,"(5, 5)",277537,214,179
+37,2017,Boston Bruins,"(5, 4)",27353,68,11
+38,2017,Boston Bruins,"(4, 5)",27969,10,46
+39,2017,Boston Bruins,"(4, 4)",4758,5,1
+40,2017,Boston Bruins,"(3, 3)",3691,6,8
+41,2017,Boston Bruins,"(4, 3)",12,0,0
+42,2017,Boston Bruins,"(3, 4)",137,0,1
+43,2017,Boston Bruins,"(5, 3)",664,5,0
+44,2017,Boston Bruins,"(3, 5)",219,0,2
+45,2017,Columbus Blue Jackets,"(5, 5)",267881,196,172
+46,2017,Columbus Blue Jackets,"(5, 4)",24667,41,8
+47,2017,Columbus Blue Jackets,"(4, 5)",23334,5,57
+48,2017,Columbus Blue Jackets,"(4, 4)",4143,2,6
+49,2017,Columbus Blue Jackets,"(3, 3)",3764,8,3
+50,2017,Columbus Blue Jackets,"(4, 3)",634,1,0
+51,2017,Columbus Blue Jackets,"(3, 4)",239,0,1
+52,2017,Columbus Blue Jackets,"(5, 3)",155,1,0
+53,2017,Columbus Blue Jackets,"(3, 5)",66,0,2
+54,2017,Toronto Maple Leafs,"(5, 5)",269572,219,194
+55,2017,Toronto Maple Leafs,"(5, 4)",21903,59,4
+56,2017,Toronto Maple Leafs,"(4, 5)",24321,5,47
+57,2017,Toronto Maple Leafs,"(4, 4)",3409,0,5
+58,2017,Toronto Maple Leafs,"(3, 3)",3169,4,4
+59,2017,Toronto Maple Leafs,"(4, 3)",309,0,0
+60,2017,Toronto Maple Leafs,"(3, 4)",623,0,2
+61,2017,Toronto Maple Leafs,"(5, 3)",486,1,1
+62,2017,Toronto Maple Leafs,"(3, 5)",693,0,1
+63,2017,Chicago Blackhawks,"(5, 5)",241399,171,189
+64,2017,Chicago Blackhawks,"(5, 4)",26982,41,6
+65,2017,Chicago Blackhawks,"(4, 5)",22455,5,43
+66,2017,Chicago Blackhawks,"(4, 4)",3259,3,3
+67,2017,Chicago Blackhawks,"(3, 3)",2695,6,5
+68,2017,Chicago Blackhawks,"(4, 3)",23,1,0
+69,2017,Chicago Blackhawks,"(3, 4)",389,0,3
+70,2017,Chicago Blackhawks,"(5, 3)",377,1,0
+71,2017,Chicago Blackhawks,"(3, 5)",399,0,3
+72,2017,Seattle Kraken,"(5, 5)",0,0,0
+73,2017,Seattle Kraken,"(5, 4)",0,0,0
+74,2017,Seattle Kraken,"(4, 5)",0,0,0
+75,2017,Seattle Kraken,"(4, 4)",0,0,0
+76,2017,Seattle Kraken,"(3, 3)",0,0,0
+77,2017,Seattle Kraken,"(4, 3)",0,0,0
+78,2017,Seattle Kraken,"(3, 4)",0,0,0
+79,2017,Seattle Kraken,"(5, 3)",0,0,0
+80,2017,Seattle Kraken,"(3, 5)",0,0,0
+81,2017,Vancouver Canucks,"(5, 5)",242241,150,182
+82,2017,Vancouver Canucks,"(5, 4)",22873,48,9
+83,2017,Vancouver Canucks,"(4, 5)",25573,7,56
+84,2017,Vancouver Canucks,"(4, 4)",3715,2,3
+85,2017,Vancouver Canucks,"(3, 3)",2787,5,5
+86,2017,Vancouver Canucks,"(4, 3)",122,1,0
+87,2017,Vancouver Canucks,"(3, 4)",326,0,1
+88,2017,Vancouver Canucks,"(5, 3)",472,4,0
+89,2017,Vancouver Canucks,"(3, 5)",270,0,2
+90,2017,Arizona Coyotes,"(5, 5)",246439,153,186
+91,2017,Arizona Coyotes,"(5, 4)",22369,41,10
+92,2017,Arizona Coyotes,"(4, 5)",20908,2,44
+93,2017,Arizona Coyotes,"(4, 4)",4267,4,3
+94,2017,Arizona Coyotes,"(3, 3)",3937,6,6
+95,2017,Arizona Coyotes,"(4, 3)",654,0,0
+96,2017,Arizona Coyotes,"(3, 4)",331,0,1
+97,2017,Arizona Coyotes,"(5, 3)",779,0,0
+98,2017,Arizona Coyotes,"(3, 5)",271,0,1
+99,2017,New Jersey Devils,"(5, 5)",254602,177,191
+100,2017,New Jersey Devils,"(5, 4)",25971,53,6
+101,2017,New Jersey Devils,"(4, 5)",27285,12,48
+102,2017,New Jersey Devils,"(4, 4)",4587,1,4
+103,2017,New Jersey Devils,"(3, 3)",3439,6,5
+104,2017,New Jersey Devils,"(4, 3)",358,1,0
+105,2017,New Jersey Devils,"(3, 4)",281,0,0
+106,2017,New Jersey Devils,"(5, 3)",301,3,0
+107,2017,New Jersey Devils,"(3, 5)",566,1,4
+108,2017,Ottawa Senators,"(5, 5)",243783,162,215
+109,2017,Ottawa Senators,"(5, 4)",24534,37,6
+110,2017,Ottawa Senators,"(4, 5)",22835,4,54
+111,2017,Ottawa Senators,"(4, 4)",3246,4,3
+112,2017,Ottawa Senators,"(3, 3)",3444,6,3
+113,2017,Ottawa Senators,"(4, 3)",551,2,0
+114,2017,Ottawa Senators,"(3, 4)",93,0,0
+115,2017,Ottawa Senators,"(5, 3)",424,2,0
+116,2017,Ottawa Senators,"(3, 5)",194,0,2
+117,2017,Florida Panthers,"(5, 5)",243172,179,186
+118,2017,Florida Panthers,"(5, 4)",24592,43,4
+119,2017,Florida Panthers,"(4, 5)",21931,10,42
+120,2017,Florida Panthers,"(4, 4)",3964,5,2
+121,2017,Florida Panthers,"(3, 3)",3016,3,4
+122,2017,Florida Panthers,"(4, 3)",153,1,0
+123,2017,Florida Panthers,"(3, 4)",364,0,0
+124,2017,Florida Panthers,"(5, 3)",611,3,0
+125,2017,Florida Panthers,"(3, 5)",549,0,3
+126,2017,Washington Capitals,"(5, 5)",313299,245,205
+127,2017,Washington Capitals,"(5, 4)",29486,71,9
+128,2017,Washington Capitals,"(4, 5)",32840,5,67
+129,2017,Washington Capitals,"(4, 4)",5490,4,6
+130,2017,Washington Capitals,"(3, 3)",2525,7,5
+131,2017,Washington Capitals,"(4, 3)",227,1,0
+132,2017,Washington Capitals,"(3, 4)",363,0,1
+133,2017,Washington Capitals,"(5, 3)",401,4,0
+134,2017,Washington Capitals,"(3, 5)",559,0,2
+135,2017,New York Rangers,"(5, 5)",243711,165,205
+136,2017,New York Rangers,"(5, 4)",23189,48,5
+137,2017,New York Rangers,"(4, 5)",24062,5,45
+138,2017,New York Rangers,"(4, 4)",3392,2,1
+139,2017,New York Rangers,"(3, 3)",3105,5,4
+140,2017,New York Rangers,"(4, 3)",222,2,0
+141,2017,New York Rangers,"(3, 4)",515,0,1
+142,2017,New York Rangers,"(5, 3)",265,1,0
+143,2017,New York Rangers,"(3, 5)",309,0,0
+144,2017,Dallas Stars,"(5, 5)",239981,164,151
+145,2017,Dallas Stars,"(5, 4)",22775,44,9
+146,2017,Dallas Stars,"(4, 5)",27270,6,51
+147,2017,Dallas Stars,"(4, 4)",3789,8,3
+148,2017,Dallas Stars,"(3, 3)",3064,5,4
+149,2017,Dallas Stars,"(4, 3)",445,0,1
+150,2017,Dallas Stars,"(3, 4)",528,0,2
+151,2017,Dallas Stars,"(5, 3)",607,3,0
+152,2017,Dallas Stars,"(3, 5)",414,0,1
+153,2017,Colorado Avalanche,"(5, 5)",252085,185,178
+154,2017,Colorado Avalanche,"(5, 4)",30767,58,13
+155,2017,Colorado Avalanche,"(4, 5)",28423,7,44
+156,2017,Colorado Avalanche,"(4, 4)",4255,7,11
+157,2017,Colorado Avalanche,"(3, 3)",2347,3,8
+158,2017,Colorado Avalanche,"(4, 3)",435,4,0
+159,2017,Colorado Avalanche,"(3, 4)",129,0,0
+160,2017,Colorado Avalanche,"(5, 3)",318,5,0
+161,2017,Colorado Avalanche,"(3, 5)",572,0,4
+162,2017,Montréal Canadiens,"(5, 5)",242744,142,175
+163,2017,Montréal Canadiens,"(5, 4)",23716,47,6
+164,2017,Montréal Canadiens,"(4, 5)",24843,7,66
+165,2017,Montréal Canadiens,"(4, 4)",2753,3,2
+166,2017,Montréal Canadiens,"(3, 3)",3188,2,7
+167,2017,Montréal Canadiens,"(4, 3)",352,2,0
+168,2017,Montréal Canadiens,"(3, 4)",244,0,0
+169,2017,Montréal Canadiens,"(5, 3)",314,3,0
+170,2017,Montréal Canadiens,"(3, 5)",627,0,2
+171,2017,Carolina Hurricanes,"(5, 5)",249456,170,192
+172,2017,Carolina Hurricanes,"(5, 4)",23758,42,6
+173,2017,Carolina Hurricanes,"(4, 5)",18192,3,43
+174,2017,Carolina Hurricanes,"(4, 4)",3382,5,4
+175,2017,Carolina Hurricanes,"(3, 3)",3412,3,8
+176,2017,Carolina Hurricanes,"(4, 3)",229,0,0
+177,2017,Carolina Hurricanes,"(3, 4)",162,0,0
+178,2017,Carolina Hurricanes,"(5, 3)",270,2,0
+179,2017,Carolina Hurricanes,"(3, 5)",56,0,0
+180,2017,Detroit Red Wings,"(5, 5)",243756,156,179
+181,2017,Detroit Red Wings,"(5, 4)",22452,38,5
+182,2017,Detroit Red Wings,"(4, 5)",24326,9,51
+183,2017,Detroit Red Wings,"(4, 4)",3624,3,2
+184,2017,Detroit Red Wings,"(3, 3)",3150,3,10
+185,2017,Detroit Red Wings,"(4, 3)",327,1,0
+186,2017,Detroit Red Wings,"(3, 4)",343,0,2
+187,2017,Detroit Red Wings,"(5, 3)",607,2,0
+188,2017,Detroit Red Wings,"(3, 5)",446,0,5
+189,2017,Anaheim Ducks,"(5, 5)",252924,175,164
+190,2017,Anaheim Ducks,"(5, 4)",22760,38,4
+191,2017,Anaheim Ducks,"(4, 5)",29020,10,46
+192,2017,Anaheim Ducks,"(4, 4)",3956,4,0
+193,2017,Anaheim Ducks,"(3, 3)",4479,5,5
+194,2017,Anaheim Ducks,"(4, 3)",218,0,0
+195,2017,Anaheim Ducks,"(3, 4)",510,0,3
+196,2017,Anaheim Ducks,"(5, 3)",175,2,0
+197,2017,Anaheim Ducks,"(3, 5)",497,0,3
+198,2017,Los Angeles Kings,"(5, 5)",255300,173,152
+199,2017,Los Angeles Kings,"(5, 4)",23656,47,4
+200,2017,Los Angeles Kings,"(4, 5)",27428,5,37
+201,2017,Los Angeles Kings,"(4, 4)",4517,4,4
+202,2017,Los Angeles Kings,"(3, 3)",3407,8,7
+203,2017,Los Angeles Kings,"(4, 3)",353,1,0
+204,2017,Los Angeles Kings,"(3, 4)",83,0,0
+205,2017,Los Angeles Kings,"(5, 3)",326,2,0
+206,2017,Los Angeles Kings,"(3, 5)",402,0,3
+207,2017,Calgary Flames,"(5, 5)",236997,155,174
+208,2017,Calgary Flames,"(5, 4)",26039,41,7
+209,2017,Calgary Flames,"(4, 5)",25928,7,47
+210,2017,Calgary Flames,"(4, 4)",4504,4,8
+211,2017,Calgary Flames,"(3, 3)",3458,7,4
+212,2017,Calgary Flames,"(4, 3)",284,0,0
+213,2017,Calgary Flames,"(3, 4)",500,0,0
+214,2017,Calgary Flames,"(5, 3)",641,2,0
+215,2017,Calgary Flames,"(3, 5)",429,0,2
+216,2017,Pittsburgh Penguins,"(5, 5)",274427,211,213
+217,2017,Pittsburgh Penguins,"(5, 4)",28240,70,4
+218,2017,Pittsburgh Penguins,"(4, 5)",28404,5,55
+219,2017,Pittsburgh Penguins,"(4, 4)",6128,7,2
+220,2017,Pittsburgh Penguins,"(3, 3)",2357,10,4
+221,2017,Pittsburgh Penguins,"(4, 3)",494,3,0
+222,2017,Pittsburgh Penguins,"(3, 4)",591,1,2
+223,2017,Pittsburgh Penguins,"(5, 3)",473,5,0
+224,2017,Pittsburgh Penguins,"(3, 5)",392,0,2
+225,2017,Winnipeg Jets,"(5, 5)",291277,227,180
+226,2017,Winnipeg Jets,"(5, 4)",30131,69,8
+227,2017,Winnipeg Jets,"(4, 5)",29976,9,54
+228,2017,Winnipeg Jets,"(4, 4)",5247,9,3
+229,2017,Winnipeg Jets,"(3, 3)",3230,5,6
+230,2017,Winnipeg Jets,"(4, 3)",206,1,0
+231,2017,Winnipeg Jets,"(3, 4)",425,0,3
+232,2017,Winnipeg Jets,"(5, 3)",382,6,0
+233,2017,Winnipeg Jets,"(3, 5)",794,0,3
+234,2017,Philadelphia Flyers,"(5, 5)",260451,192,181
+235,2017,Philadelphia Flyers,"(5, 4)",27456,53,10
+236,2017,Philadelphia Flyers,"(4, 5)",22126,4,55
+237,2017,Philadelphia Flyers,"(4, 4)",5319,4,7
+238,2017,Philadelphia Flyers,"(3, 3)",4039,8,6
+239,2017,Philadelphia Flyers,"(4, 3)",635,1,0
+240,2017,Philadelphia Flyers,"(3, 4)",760,0,1
+241,2017,Philadelphia Flyers,"(5, 3)",135,2,0
+242,2017,Philadelphia Flyers,"(3, 5)",490,0,3
+243,2017,Buffalo Sabres,"(5, 5)",242973,135,206
+244,2017,Buffalo Sabres,"(5, 4)",26264,46,10
+245,2017,Buffalo Sabres,"(4, 5)",22508,9,47
+246,2017,Buffalo Sabres,"(4, 4)",2050,2,1
+247,2017,Buffalo Sabres,"(3, 3)",3022,3,9
+248,2017,Buffalo Sabres,"(4, 3)",248,1,0
+249,2017,Buffalo Sabres,"(3, 4)",397,0,2
+250,2017,Buffalo Sabres,"(5, 3)",243,2,0
+251,2017,Buffalo Sabres,"(3, 5)",737,0,3
+252,2017,St. Louis Blues,"(5, 5)",244086,166,153
+253,2017,St. Louis Blues,"(5, 4)",24290,37,9
+254,2017,St. Louis Blues,"(4, 5)",22293,5,45
+255,2017,St. Louis Blues,"(4, 4)",3703,6,7
+256,2017,St. Louis Blues,"(3, 3)",2686,8,5
+257,2017,St. Louis Blues,"(4, 3)",179,1,0
+258,2017,St. Louis Blues,"(3, 4)",41,0,0
+259,2017,St. Louis Blues,"(5, 3)",501,0,0
+260,2017,St. Louis Blues,"(3, 5)",237,0,2
+261,2017,Minnesota Wild,"(5, 5)",257284,193,174
+262,2017,Minnesota Wild,"(5, 4)",24092,50,6
+263,2017,Minnesota Wild,"(4, 5)",27062,7,49
+264,2017,Minnesota Wild,"(4, 4)",3563,3,3
+265,2017,Minnesota Wild,"(3, 3)",3536,4,8
+266,2017,Minnesota Wild,"(4, 3)",0,0,0
+267,2017,Minnesota Wild,"(3, 4)",96,0,0
+268,2017,Minnesota Wild,"(5, 3)",495,2,0
+269,2017,Minnesota Wild,"(3, 5)",608,0,5
+270,2017,New York Islanders,"(5, 5)",244674,191,207
+271,2017,New York Islanders,"(5, 4)",24371,55,11
+272,2017,New York Islanders,"(4, 5)",22568,5,61
+273,2017,New York Islanders,"(4, 4)",2952,0,5
+274,2017,New York Islanders,"(3, 3)",3296,7,6
+275,2017,New York Islanders,"(4, 3)",266,1,0
+276,2017,New York Islanders,"(3, 4)",431,0,0
+277,2017,New York Islanders,"(5, 3)",232,2,0
+278,2017,New York Islanders,"(3, 5)",218,0,2
+279,2017,Edmonton Oilers,"(5, 5)",246469,178,193
+280,2017,Edmonton Oilers,"(5, 4)",21469,30,5
+281,2017,Edmonton Oilers,"(4, 5)",23859,10,56
+282,2017,Edmonton Oilers,"(4, 4)",2705,3,1
+283,2017,Edmonton Oilers,"(3, 3)",3176,6,5
+284,2017,Edmonton Oilers,"(4, 3)",268,1,0
+285,2017,Edmonton Oilers,"(3, 4)",128,0,0
+286,2017,Edmonton Oilers,"(5, 3)",177,0,0
+287,2017,Edmonton Oilers,"(3, 5)",337,0,1
